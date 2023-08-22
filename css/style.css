@@ -1,0 +1,13 @@
+.bg-blured {
+	backdrop-filter: blur(10px);
+}
+
+.gallery img {
+	aspect-ratio: 3/2;
+	object-fit: cover;
+}
+
+.my-carousel img {
+	aspect-ratio: 2/1;
+	object-fit: cover;
+}
